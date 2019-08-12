@@ -1,2 +1,2 @@
 # Harmony-Os
-study、
+study
